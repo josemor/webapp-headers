@@ -1,0 +1,12 @@
+# Maven
+log/
+target/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+/out/
+
+# From https://github.com/github/gitignore/blob/master/Java.gitignore
+*.class
