@@ -31,7 +31,7 @@ public class BuscarProductosServlet extends HttpServlet {
             try (PrintWriter writer = resp.getWriter()) {
                 writer.println("<!DOCTYPE html>");
                 writer.println("<html>");
-                writer.println("    <head>");
+                writer.println("   <head>");
                 writer.println("        <meta charset=\"UTF-8\">");
                 writer.println("        <title>Producto encontrado</title>");
                 writer.println("    </head>");
